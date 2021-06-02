@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WilliamBertolasi
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m @WilliamBertolasi.
+- 👀 I’m interested in machine learning.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on projects related to AI and ML.
 - 📫 How to reach me: https://www.linkedin.com/in/wbertolasi
 
